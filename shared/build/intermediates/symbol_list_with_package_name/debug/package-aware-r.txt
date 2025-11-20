@@ -1,0 +1,2 @@
+com.example.androidautomedia.shared
+xml automotive_app_desc

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MP3 Player</string>
+    <string name="mp3_player">MP3 Player</string>
+    <string name="button_text_mobile">Mobile</string>
+    <string name="currently_playing_song">Currently Playing Song</string>
+    <string name="previous">Previous</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="next">Next</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+</resources>

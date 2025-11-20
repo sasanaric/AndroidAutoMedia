@@ -1,0 +1,44 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:1:1-23:12
+INJECTED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:1:1-23:12
+	package
+		INJECTED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:2:5-21:19
+	android:appCategory
+		ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:2:18-45
+meta-data#com.google.android.gms.car.application
+ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:4:9-6:59
+	android:resource
+		ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:6:13-56
+	android:name
+		ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:5:13-66
+meta-data#androidx.car.app.minCarApiLevel
+ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:7:9-9:32
+	android:value
+		ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:9:13-30
+	android:name
+		ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:8:13-59
+service#com.example.androidautomedia.shared.MyMusicService
+ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:13:9-19:19
+	android:exported
+		ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:14:13-78
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:16:13-18:29
+action#android.media.browse.MediaBrowserService
+ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:17:17-83
+	android:name
+		ADDED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml:17:25-80
+uses-sdk
+INJECTED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml
+INJECTED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\snari\StudioProjects\AndroidAutoMedia\shared\src\main\AndroidManifest.xml
